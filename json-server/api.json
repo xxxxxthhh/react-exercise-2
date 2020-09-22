@@ -1,31 +1,31 @@
 {
   "products": [{
-    "category": "iPhone",
+    "phoneCategory": "iPhone",
     "price": "￥5999",
     "name": "iPhone11"
   },
     {
-      "category": "iPhone",
+      "phoneCategory": "iPhone",
       "price": "￥5399",
       "name": "iPhoneXS"
     },
     {
-      "category": "iPhone",
+      "phoneCategory": "iPhone",
       "price": "￥3599",
       "name": "iPhoneSE"
     },
     {
-      "category": "HUAWEI",
+      "phoneCategory": "HUAWEI",
       "price": "￥7999",
       "name": "HUAWEI P40 Pro+"
     },
     {
-      "category": "HUAWEI",
+      "phoneCategory": "HUAWEI",
       "price": "￥5000",
       "name": "HUAWEI Mate 30"
     },
     {
-      "category": "HUAWEI",
+      "phoneCategory": "HUAWEI",
       "price": "￥4000",
       "name": "HUAWEI nova 7"
     }
